@@ -68,6 +68,6 @@ The code expects the working layout described in `README_vi.md`: the dataset in 
 
 ## Team
 
-A five-person team project; I was the team leader and did the EDA, data cleaning, and Steps 0, 1 and 3. Steps 5–7 were built together. I know my own parts in full detail, and my teammates' parts less deeply.
+A five-person team project; I was the team leader, did the EDA, data cleaning, and Steps 0 and 3, and led Step 1, which merges my version with a teammate's. Steps 5–7 were built together. I know my own parts in full detail, and my teammates' parts less deeply.
 
 Earlier round of the same competition: [bi10-consumer-financial-health](https://github.com/nhaduy-data/bi10-consumer-financial-health)
