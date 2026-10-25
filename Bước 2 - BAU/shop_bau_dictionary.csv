@@ -1,0 +1,14 @@
+﻿cột,ý nghĩa
+data_status / bau_method,Tình trạng dữ liệu tại 09/2026 và cách tính BAU áp dụng (quy tắc biên GĐ7.2)
+level,"Mức nền: contract/tháng chuẩn 30,44 ngày, đã khử mùa vụ và quy về 'shop đã ổn định', TB 04–09/2026"
+g_raw / z,Xu hướng thô %/tháng của 6 tháng gần nhất và thống kê kiểm định z
+trend_label,"Đi lên / Đi xuống (|z|>1,96) / Đứng yên / Ngủ đông (≥3 tháng toàn 0) / Chưa đủ dữ liệu / Chưa phát sinh doanh số"
+B_shrink / g_shrunk,"Mức tin vào trend riêng của shop (0–1) và trend sau lọc nhiễu, chặn ±15%/tháng"
+ca_*,"Current Actual = TB 07–09/2026 (QƯ3), lấy nguyên từ Bước 1"
+bau_contracts,"BAU = TB contract/tháng 10/2026–03/2027 (bán tại shop, theo tháng ký)"
+bau_vs_ca,BAU / CA − 1
+ticket_bau / bau_funded_volume,Ticket credibility và BAU funded volume (đồng/tháng)
+bau_xsell_*,BAU cross-sell ghi công cho shop tạo lead; *_elsewhere = phần ký ở shop khác/online
+bau_total_contribution_*,Bán tại shop + cross-sell ký nơi khác (không double count)
+bau_statement_vi / _en,Câu lời thường mô tả BAU
+bau_contracts_YYYY_MM,Đường dự báo theo tháng

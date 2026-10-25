@@ -1,0 +1,10 @@
+Round3_BI10_dataset/
+clean_data/
+output/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+!Bước 2 - BAU/shop_bau_dictionary.csv
+!Bước 4/task4_output/csv/s1_external_checked.csv
