@@ -2,7 +2,7 @@
 
 **Champion of Business Intelligence Season 10 (ITB Club, University of Economics and Law, 2026)** · Team *KDL Ú vjp pro 123*
 
-The company sells consumer loans through a network of about 11,700 partner shops. Two shops can sign the same number of contracts per month and still have very different room to grow. The question in the final round: how far can each shop realistically grow, what is holding it back, and which shops should get the sales team's resources first.
+The case was set by Home Credit Vietnam, which sells consumer loans through a network of about 11,700 partner shops. Two shops can sign the same number of contracts per month and still have very different room to grow. The question in the final round: how far can each shop realistically grow, what is holding it back, and which shops should get the sales team's resources first.
 
 Slides: [`slides/BI10_Final_Round_Slides.pdf`](slides/BI10_Final_Round_Slides.pdf)
 
